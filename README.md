@@ -1,2 +1,70 @@
-# AI-Resume-Analyzer-Pro
-Developed AI Resume Analyzer Pro using Python, Streamlit, OpenRouter API, Scikit-Learn, and Plotly. Built functionality to extract and analyze PDF resumes, calculate ATS compatibility scores against job descriptions, generate AI-powered feedback, visualize results with interactive dashboards, and export professional PDF reports.
+# \# AI Resume Analyzer Pro
+
+# 
+
+# An AI-powered Resume Analyzer built using Python, Streamlit, OpenRouter API, Scikit-Learn, Plotly, and ReportLab.
+
+# 
+
+# \## Features
+
+# 
+
+# \* Upload PDF resumes
+
+# \* Extract resume text automatically
+
+# \* ATS compatibility scoring
+
+# \* Job description matching
+
+# \* AI-powered resume analysis
+
+# \* Interactive ATS gauge visualization
+
+# \* PDF report generation and download
+
+# 
+
+# \## Tech Stack
+
+# 
+
+# \* Python
+
+# \* Streamlit
+
+# \* OpenRouter API
+
+# \* PyPDF2
+
+# \* Scikit-Learn
+
+# \* Plotly
+
+# \* ReportLab
+
+# 
+
+# \## How to Run
+
+# 
+
+# ```bash
+
+# pip install -r requirements.txt
+
+# streamlit run app\_final.py
+
+# ```
+
+# 
+
+# \## Author
+
+# 
+
+# Ganesh
+
+# 
+
